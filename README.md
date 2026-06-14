@@ -1,5 +1,5 @@
 # Number Guessing Game
-This  is a simple Java Number Guessig Game project
+This  is a simple Java Number Guessing Game project
 ## Features
 - Random number generation
 - User input
